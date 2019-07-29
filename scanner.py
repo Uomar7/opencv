@@ -253,3 +253,5 @@ for c in contours:
 
 cv2.imshow("preprocessed", image)
 cv2.waitkey()
+
+#! Run the server, python3 scanner.py --image sheet.jpg
